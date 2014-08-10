@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<students name="基础与信息工程学院" count="2">
+  <!--人数总数-->
+  <student>
+    <name>刘德华</name>
+    <age type="int">28</age>
+  </student>
+  <student>
+    <name>黎明</name>
+    <age>54</age>
+  </student>
+</students>
